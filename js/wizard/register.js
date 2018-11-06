@@ -21,7 +21,7 @@ function regFire(email,password) {
         document.getElementById('alert2').hidden = false;
         document.getElementById('alert2').classList.add('alert-success');
         document.getElementById('alert2').innerHTML = 'Success!';
-        window.location.href = 'index.html';
+        window.location.href = 'index-0.html';
 
     }).catch(function (error) {
         // Handle Errors here.

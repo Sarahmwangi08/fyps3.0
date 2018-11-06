@@ -81,7 +81,7 @@ function regFire(email,password) {
 
 
         /*setTimeout(function () {
-            window.location.href = 'index.html';
+            window.location.href = 'index-0.html';
         } ,5000);*/
 
 
@@ -138,3 +138,42 @@ function writeUsersToDb(admissionNumber, role, fname, lname,userID,Email) {
 
         });
 }
+
+firebase.auth().onAuthStateChanged(function(user) {
+    if (user) {
+        // User is signed in.
+
+        console.log('signed in ' + user);
+
+        var userID = user.uid;
+        console.log(userID);
+        var userRead = firebase.database().ref('users/' + userID);
+        userRead.on('value', function(snapshot) {
+            console.log(snapshot.val().role);
+            var userRole = snapshot.val().role;
+
+            if (userRole == 'Student'){
+                console.log('this is a student');
+                setTimeout(function () {
+                    document.location.href = 'index-1.html';
+                },10000);
+            }else if (userRole == 'Supervisor') {
+                console.log('switch to supervisor');
+                setTimeout(function () {
+                    document.location.href = 'index-2.html';
+                },10000);
+            }else if (userRole == 'Lead Lecturer') {
+                console.log('This is a lead lecturer');
+                setTimeout(function () {
+                    document.location.href = 'index-0.html';
+                },10000);
+            }
+
+
+        });
+
+
+    } else {
+        // No user is signed in.
+    }
+});

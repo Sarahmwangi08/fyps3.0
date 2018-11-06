@@ -1,9 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8af330f7-4403-4a8a-a679-2eecea82bf5b" name="Default Changelist" comment="" />
+    <list default="true" id="8af330f7-4403-4a8a-a679-2eecea82bf5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js/indexMain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/500.html" beforeDir="false" afterPath="$PROJECT_DIR$/500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accordion.html" beforeDir="false" afterPath="$PROJECT_DIR$/accordion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-course.html" beforeDir="false" afterPath="$PROJECT_DIR$/add-course.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-department.html" beforeDir="false" afterPath="$PROJECT_DIR$/add-department.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-library-assets.html" beforeDir="false" afterPath="$PROJECT_DIR$/add-library-assets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-professor.html" beforeDir="false" afterPath="$PROJECT_DIR$/add-professor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-student.html" beforeDir="false" afterPath="$PROJECT_DIR$/add-student.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advance-form-element.html" beforeDir="false" afterPath="$PROJECT_DIR$/advance-form-element.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alerts.html" beforeDir="false" afterPath="$PROJECT_DIR$/alerts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all-courses.html" beforeDir="false" afterPath="$PROJECT_DIR$/all-courses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all-professors.html" beforeDir="false" afterPath="$PROJECT_DIR$/all-professors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all-students.html" beforeDir="false" afterPath="$PROJECT_DIR$/all-students.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytics.html" beforeDir="false" afterPath="$PROJECT_DIR$/analytics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/area-charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/area-charts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bar-charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/bar-charts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-form-element.html" beforeDir="false" afterPath="$PROJECT_DIR$/basic-form-element.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c3.html" beforeDir="false" afterPath="$PROJECT_DIR$/c3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-editor.html" beforeDir="false" afterPath="$PROJECT_DIR$/code-editor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-payment.html" beforeDir="false" afterPath="$PROJECT_DIR$/course-payment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-maps.html" beforeDir="false" afterPath="$PROJECT_DIR$/data-maps.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-table.html" beforeDir="false" afterPath="$PROJECT_DIR$/data-table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/departments.html" beforeDir="false" afterPath="$PROJECT_DIR$/departments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dual-list-box.html" beforeDir="false" afterPath="$PROJECT_DIR$/dual-list-box.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit-course.html" beforeDir="false" afterPath="$PROJECT_DIR$/edit-course.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit-department.html" beforeDir="false" afterPath="$PROJECT_DIR$/edit-department.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit-library-assets.html" beforeDir="false" afterPath="$PROJECT_DIR$/edit-library-assets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit-professor.html" beforeDir="false" afterPath="$PROJECT_DIR$/edit-professor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit-student.html" beforeDir="false" afterPath="$PROJECT_DIR$/edit-student.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-map.html" beforeDir="false" afterPath="$PROJECT_DIR$/google-map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images-cropper.html" beforeDir="false" afterPath="$PROJECT_DIR$/images-cropper.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/wizard/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/wizard/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-assets.html" beforeDir="false" afterPath="$PROJECT_DIR$/library-assets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/line-charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/line-charts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mailbox-compose.html" beforeDir="false" afterPath="$PROJECT_DIR$/mailbox-compose.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mailbox-view.html" beforeDir="false" afterPath="$PROJECT_DIR$/mailbox-view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mailbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/mailbox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modals.html" beforeDir="false" afterPath="$PROJECT_DIR$/modals.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/multi-upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/notifications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/password-meter.html" beforeDir="false" afterPath="$PROJECT_DIR$/password-meter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf-viewer.html" beforeDir="false" afterPath="$PROJECT_DIR$/pdf-viewer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/peity.html" beforeDir="false" afterPath="$PROJECT_DIR$/peity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preloader.html" beforeDir="false" afterPath="$PROJECT_DIR$/preloader.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/professor-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/professor-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rounded-chart.html" beforeDir="false" afterPath="$PROJECT_DIR$/rounded-chart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkline.html" beforeDir="false" afterPath="$PROJECT_DIR$/sparkline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static-table.html" beforeDir="false" afterPath="$PROJECT_DIR$/static-table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/student-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs.html" beforeDir="false" afterPath="$PROJECT_DIR$/tabs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinymc.html" beforeDir="false" afterPath="$PROJECT_DIR$/tinymc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree-view.html" beforeDir="false" afterPath="$PROJECT_DIR$/tree-view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets.html" beforeDir="false" afterPath="$PROJECT_DIR$/widgets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-editable.html" beforeDir="false" afterPath="$PROJECT_DIR$/x-editable.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,95 +239,111 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-2005546302">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="4" />
+          <entry key="js" value="3" />
+          <entry key="php" value="1" />
+          <entry key="pms_users" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="1" />
+          <entry key="HTML" value="4" />
+          <entry key="JavaScript" value="3" />
+          <entry key="PHP" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="37" />
+          <entry key="js" value="586" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="37" />
+          <entry key="JavaScript" value="586" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.php.rename.constructor" />
+      <usages-collector id="statistics.php.composer.actions" />
+      <usages-collector id="statistics.php.composer.command.options" />
+      <usages-collector id="statistics.php.new.test" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.php.new.class" />
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-0.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1904">
-              <caret line="112" column="33" selection-start-line="112" selection-start-column="33" selection-end-line="112" selection-end-column="33" />
+            <state relative-caret-position="529">
+              <caret line="1647" column="81" selection-start-line="1647" selection-start-column="81" selection-end-line="1647" selection-end-column="81" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index-1.html" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4539">
-              <caret line="267" column="114" selection-start-line="267" selection-start-column="114" selection-end-line="267" selection-end-column="114" />
+            <state relative-caret-position="-6231">
+              <caret line="398" column="48" selection-start-line="398" selection-start-column="48" selection-end-line="398" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index-2.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index-2.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/indexMain.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="244" column="51" selection-start-line="244" selection-start-column="51" selection-end-line="244" selection-end-column="51" />
+            <state relative-caret-position="599">
+              <caret line="55" lean-forward="true" selection-start-line="19" selection-end-line="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit-student.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/edit-student.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18972">
-              <caret line="1116" column="47" selection-start-line="1116" selection-start-column="47" selection-end-line="1116" selection-end-column="47" />
+            <state relative-caret-position="557">
+              <caret line="152" column="20" selection-start-line="152" selection-start-column="20" selection-end-line="152" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add-student.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/add-student.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20196">
-              <caret line="1188" column="42" selection-start-line="1188" selection-start-column="42" selection-end-line="1188" selection-end-column="42" />
+            <state relative-caret-position="655">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add-professor.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/add-professor.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17935">
-              <caret line="1055" column="71" selection-start-line="1055" selection-start-column="71" selection-end-line="1055" selection-end-column="71" />
+            <state relative-caret-position="543">
+              <caret line="168" column="77" selection-start-line="168" selection-end-line="168" selection-end-column="77" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="library-assets.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/library-assets.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/register.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20128">
-              <caret line="1184" column="44" selection-start-line="1184" selection-start-column="44" selection-end-line="1184" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add-library-assets.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/add-library-assets.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20553">
-              <caret line="1209" column="69" selection-start-line="1209" selection-start-column="69" selection-end-line="1209" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="student-profile.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/student-profile.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18462">
-              <caret line="1086" column="64" selection-start-line="1086" selection-start-column="64" selection-end-line="1086" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="all-professors.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/all-professors.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18377">
-              <caret line="1081" column="67" selection-start-line="1081" selection-start-column="67" selection-end-line="1081" selection-end-column="67" />
+            <state relative-caret-position="529">
+              <caret line="173" selection-start-line="149" selection-start-column="8" selection-end-line="173" />
             </state>
           </provider>
         </entry>
@@ -275,34 +357,40 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>log out</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/login.js" />
         <option value="$PROJECT_DIR$/js/wizard/register.js" />
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/404.html" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/6b798fee-a689-4cfe-a1e9-41d05548f8ee/console.sql" />
-        <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/php/usersUpdate.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a7ba18b3-2de3-48c6-bc58-b90b6fb426f9/console_1.sql" />
         <option value="$PROJECT_DIR$/php/createUpdate.php" />
-        <option value="$PROJECT_DIR$/js/register.js" />
         <option value="$PROJECT_DIR$/preloader.html" />
         <option value="$PROJECT_DIR$/js/index.js" />
         <option value="$PROJECT_DIR$/add-student.html" />
         <option value="$PROJECT_DIR$/all-students.html" />
         <option value="$PROJECT_DIR$/all-professors.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/add-professor.html" />
         <option value="$PROJECT_DIR$/library-assets.html" />
         <option value="$PROJECT_DIR$/add-library-assets.html" />
         <option value="$PROJECT_DIR$/student-profile.html" />
         <option value="$PROJECT_DIR$/index-1.html" />
         <option value="$PROJECT_DIR$/index-2.html" />
+        <option value="$PROJECT_DIR$/js/register.js" />
+        <option value="$PROJECT_DIR$/register.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/indexMain.js" />
+        <option value="$PROJECT_DIR$/js/login.js" />
       </list>
     </option>
   </component>
@@ -312,17 +400,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1366" />
-    <option name="height" value="768" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="737" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -335,17 +419,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="Final-Year-Project-Management-System-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Final-Year-Project-Management-System-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fyps3.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fyps3.0" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Final-Year-Project-Management-System-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Final-Year-Project-Management-System-master" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Final-Year-Project-Management-System-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Final-Year-Project-Management-System-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fyps3.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fyps3.0" type="462c0819:PsiDirectoryNode" />
               <item name="php" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -395,59 +474,61 @@
       <workItem from="1540875553658" duration="4987000" />
       <workItem from="1541317174346" duration="20387000" />
       <workItem from="1541505230569" duration="1030000" />
+      <workItem from="1541506501394" duration="3352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61384000" />
+    <option name="totallyTimeSpent" value="64736000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13396779" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13570274" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="DB Browser" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5014641" side_tool="true" visible="true" weight="0.3497758" />
-      <window_info anchor="right" id="Database" order="3" weight="0.3634895" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49853587" visible="true" weight="0.3497758" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49757674" weight="0.3488372" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5024233" side_tool="true" weight="0.3488372" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32876712" />
       <window_info anchor="bottom" id="DB Execution Console" order="13" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="DB Browser" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3634895" />
       <window_info anchor="right" id="JSON Viewer" order="4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32876712" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24281392" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Run" order="7" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
-      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,104 +538,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="112" column="33" selection-start-line="112" selection-start-column="33" selection-end-line="112" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4539">
-          <caret line="267" column="114" selection-start-line="267" selection-start-column="114" selection-end-line="267" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/edit-student.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18972">
-          <caret line="1116" column="47" selection-start-line="1116" selection-start-column="47" selection-end-line="1116" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/add-student.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20196">
-          <caret line="1188" column="42" lean-forward="true" selection-start-line="1188" selection-start-column="42" selection-end-line="1188" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/add-professor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17935">
-          <caret line="1055" column="71" lean-forward="true" selection-start-line="1055" selection-start-column="71" selection-end-line="1055" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/library-assets.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20128">
-          <caret line="1184" column="44" lean-forward="true" selection-start-line="1184" selection-start-column="44" selection-end-line="1184" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/add-library-assets.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20553">
-          <caret line="1209" column="69" selection-start-line="1209" selection-start-column="69" selection-end-line="1209" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/student-profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18462">
-          <caret line="1086" column="64" lean-forward="true" selection-start-line="1086" selection-start-column="64" selection-end-line="1086" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all-professors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18377">
-          <caret line="1081" column="67" selection-start-line="1081" selection-start-column="67" selection-end-line="1081" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index-2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4148">
-          <caret line="244" column="51" selection-start-line="244" selection-start-column="51" selection-end-line="244" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preloader.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24378">
-          <caret line="1434" column="32" selection-start-line="1434" selection-start-column="32" selection-end-line="1446" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="66" selection-start-line="68" selection-start-column="66" selection-end-line="68" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18445">
-          <caret line="1085" column="9" selection-start-line="1085" selection-start-column="9" selection-end-line="1085" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/wizard/register.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -570,43 +553,8 @@
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6b798fee-a689-4cfe-a1e9-41d05548f8ee/console.sql" />
-    <entry file="file://$PROJECT_DIR$/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a7ba18b3-2de3-48c6-bc58-b90b6fb426f9/console_1.sql" />
-    <entry file="file://$PROJECT_DIR$/php/createUpdate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="22" column="181" selection-start-line="22" selection-start-column="181" selection-end-line="22" selection-end-column="181" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2352">
-          <caret line="168" column="50" selection-start-line="168" selection-start-column="50" selection-end-line="168" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a7ba18b3-2de3-48c6-bc58-b90b6fb426f9/console.sql" />
-    <entry file="das://a7ba18b3-2de3-48c6-bc58-b90b6fb426f9/schema/PMSDB/table/pms_users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/index.js" />
     <entry file="file://$PROJECT_DIR$/preloader.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -636,13 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/register.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="103" column="37" lean-forward="true" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/all-students.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="553">
@@ -652,71 +593,120 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/edit-student.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18972">
+        <state relative-caret-position="15624">
           <caret line="1116" column="47" selection-start-line="1116" selection-start-column="47" selection-end-line="1116" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all-professors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18377">
-          <caret line="1081" column="67" selection-start-line="1081" selection-start-column="67" selection-end-line="1081" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="112" column="33" selection-start-line="112" selection-start-column="33" selection-end-line="112" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/add-student.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20196">
+        <state relative-caret-position="16632">
           <caret line="1188" column="42" selection-start-line="1188" selection-start-column="42" selection-end-line="1188" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/add-professor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17935">
+        <state relative-caret-position="14770">
           <caret line="1055" column="71" selection-start-line="1055" selection-start-column="71" selection-end-line="1055" selection-end-column="71" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/library-assets.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20128">
+        <state relative-caret-position="16576">
           <caret line="1184" column="44" selection-start-line="1184" selection-start-column="44" selection-end-line="1184" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/add-library-assets.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20553">
+        <state relative-caret-position="16926">
           <caret line="1209" column="69" selection-start-line="1209" selection-start-column="69" selection-end-line="1209" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/student-profile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18462">
+        <state relative-caret-position="15204">
           <caret line="1086" column="64" selection-start-line="1086" selection-start-column="64" selection-end-line="1086" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index-1.html">
+    <entry file="file://$PROJECT_DIR$/all-professors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4539">
-          <caret line="267" column="114" selection-start-line="267" selection-start-column="114" selection-end-line="267" selection-end-column="114" />
+        <state relative-caret-position="15134">
+          <caret line="1081" column="67" selection-start-line="1081" selection-start-column="67" selection-end-line="1081" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="-397">
           <caret line="244" column="51" selection-start-line="244" selection-start-column="51" selection-end-line="244" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/createUpdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="181" selection-start-line="22" selection-start-column="181" selection-end-line="22" selection-end-column="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a7ba18b3-2de3-48c6-bc58-b90b6fb426f9/schema/PMSDB/table/pms_users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-0.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="1647" column="81" selection-start-line="1647" selection-start-column="81" selection-end-line="1647" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="168" column="77" selection-start-line="168" selection-end-line="168" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6231">
+          <caret line="398" column="48" selection-start-line="398" selection-start-column="48" selection-end-line="398" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="173" selection-start-line="149" selection-start-column="8" selection-end-line="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="152" column="20" selection-start-line="152" selection-start-column="20" selection-end-line="152" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/indexMain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="55" lean-forward="true" selection-start-line="19" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
         </state>
       </provider>
     </entry>
