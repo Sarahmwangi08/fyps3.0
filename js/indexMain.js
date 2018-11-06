@@ -26,6 +26,9 @@ firebase.auth().onAuthStateChanged(function(user) {
         userRead2.on('value', function(snapshot) {
             console.log(snapshot.val().role);
             var userRole = snapshot.val().role;
+            var Username12 = snapshot.val().fname + " " + snapshot.val().lname;
+
+            document.getElementById('UnameField').innerHTML = Username12;
 
             if (userRole == 'Student'){
                 console.log('this is a student');
@@ -39,9 +42,6 @@ firebase.auth().onAuthStateChanged(function(user) {
                 },1000);
             }else if (userRole == 'Lead Lecturer') {
                 console.log('This is a lead lecturer');
-                setTimeout(function () {
-                    document.location.href = 'index-0.html';
-                },1000);
             }
 
 
